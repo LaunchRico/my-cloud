@@ -4,3 +4,6 @@
 [submodule "mycloud-data"]
 	path = mycloud-data
 	url = https://github.com/LaunchRico/mycloud-data.git
+[submodule "mycloud-platform"]
+	path = mycloud-platform
+	url = https://github.com/LaunchRico/mycloud-platform.git
