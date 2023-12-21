@@ -7,3 +7,6 @@
 [submodule "mycloud-platform"]
 	path = mycloud-platform
 	url = https://github.com/LaunchRico/mycloud-platform.git
+[submodule "mycloud-ui"]
+	path = mycloud-ui
+	url = https://github.com/LaunchRico/mycloud-ui.git
